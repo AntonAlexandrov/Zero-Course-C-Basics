@@ -1,0 +1,5 @@
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe.config
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\06LongestAreaInArray\bin\Debug\06LongestAreaInArray.pdb
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\06LongestAreaInArray\obj\Debug\06LongestAreaInArray.pdb

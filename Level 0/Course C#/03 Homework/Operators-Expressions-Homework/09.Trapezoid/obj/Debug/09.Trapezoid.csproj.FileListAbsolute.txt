@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\09.Trapezoid\bin\Debug\09.Trapezoid.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\09.Trapezoid\bin\Debug\09.Trapezoid.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\09.Trapezoid\bin\Debug\09.Trapezoid.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\09.Trapezoid\obj\Debug\09.Trapezoid.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\09.Trapezoid\obj\Debug\09.Trapezoid.pdb

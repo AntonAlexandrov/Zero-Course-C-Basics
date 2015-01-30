@@ -1,0 +1,8 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P6BiggestofFiveNumbers\bin\Debug\P6BiggestofFiveNumbers.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P6BiggestofFiveNumbers\bin\Debug\P6BiggestofFiveNumbers.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P6BiggestofFiveNumbers\bin\Debug\P6BiggestofFiveNumbers.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P6BiggestofFiveNumbers\obj\Debug\P6BiggestofFiveNumbers.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P6BiggestofFiveNumbers\obj\Debug\P6BiggestofFiveNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P6BiggestofFiveNumbers\bin\Debug\P6BiggestofFiveNumbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P6BiggestofFiveNumbers\obj\Debug\P6BiggestofFiveNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P6BiggestofFiveNumbers\obj\Debug\P6BiggestofFiveNumbers.pdb

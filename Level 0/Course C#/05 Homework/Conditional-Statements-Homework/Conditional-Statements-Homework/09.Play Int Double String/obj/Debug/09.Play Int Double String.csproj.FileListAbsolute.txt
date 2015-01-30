@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\09.Play Int Double String\bin\Debug\09.Play Int Double String.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\09.Play Int Double String\bin\Debug\09.Play Int Double String.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\09.Play Int Double String\bin\Debug\09.Play Int Double String.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\09.Play Int Double String\obj\Debug\09.Play Int Double String.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\09.Play Int Double String\obj\Debug\09.Play Int Double String.pdb

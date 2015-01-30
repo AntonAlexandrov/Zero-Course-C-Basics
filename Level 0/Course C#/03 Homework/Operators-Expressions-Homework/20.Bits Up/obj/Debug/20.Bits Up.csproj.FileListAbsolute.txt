@@ -1,0 +1,9 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\20.Bits Up\bin\Debug\20.Bits Up.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\20.Bits Up\bin\Debug\20.Bits Up.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\20.Bits Up\bin\Debug\20.Bits Up.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\20.Bits Up\obj\Debug\20.Bits Up.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\20.Bits Up\obj\Debug\20.Bits Up.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\20.Bits Up\obj\Debug\20.Bits Up.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\20.Bits Up\bin\Debug\20.Bits Up.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\20.Bits Up\obj\Debug\20.Bits Up.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\20.Bits Up\obj\Debug\20.Bits Up.pdb

@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\17.Bits Killer\bin\Debug\17.Bits Killer.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\17.Bits Killer\bin\Debug\17.Bits Killer.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\17.Bits Killer\bin\Debug\17.Bits Killer.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\17.Bits Killer\obj\Debug\17.Bits Killer.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\17.Bits Killer\obj\Debug\17.Bits Killer.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\17.Bits Killer\obj\Debug\17.Bits Killer.pdb

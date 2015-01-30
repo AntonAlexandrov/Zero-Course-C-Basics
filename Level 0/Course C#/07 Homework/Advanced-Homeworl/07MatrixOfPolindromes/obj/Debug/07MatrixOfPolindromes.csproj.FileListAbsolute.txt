@@ -1,0 +1,5 @@
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\07MatrixOfPolindromes\bin\Debug\07MatrixOfPolindromes.exe.config
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\07MatrixOfPolindromes\bin\Debug\07MatrixOfPolindromes.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\07MatrixOfPolindromes\bin\Debug\07MatrixOfPolindromes.pdb
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\07MatrixOfPolindromes\obj\Debug\07MatrixOfPolindromes.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\07MatrixOfPolindromes\obj\Debug\07MatrixOfPolindromes.pdb

@@ -1,0 +1,7 @@
+C++, C#, Java, Python, Assembly
+
+Assembly is a low-level programming language used for programming instructions to a computer or a device. Aech computer architechture has its own way of being programed with Assebly.
+C++ is an object oriented programming launguage. It is a high level language useful in a lot of ways, such as operating system kernels, fast and efficient applications and video games.
+C# is similar to C and C++ in a lot of ways but aloso different. It's designed to be a simple, generic and modern programming language.
+Python is a programming language that has many uses. It is designed to be easily readable and can do things in fewer lines of code that C or Java. It can be used on variety of ssytems and not only PCs.
+Java code, like Python code, can run on multiple ssytems without the need to recompile the source code. That is the most famous and used feature in Java. It is similar in ways to C and C# but lacks the low level control they offer.  

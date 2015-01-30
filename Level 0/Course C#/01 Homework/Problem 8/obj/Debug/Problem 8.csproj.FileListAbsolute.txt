@@ -1,0 +1,10 @@
+E:\PROGRAMMING\random projects\01 Homework\Problem 8\bin\Debug\Problem 8.exe.config
+E:\PROGRAMMING\random projects\01 Homework\Problem 8\bin\Debug\Problem 8.exe
+E:\PROGRAMMING\random projects\01 Homework\Problem 8\bin\Debug\Problem 8.pdb
+E:\PROGRAMMING\random projects\01 Homework\Problem 8\obj\Debug\Problem 8.exe
+E:\PROGRAMMING\random projects\01 Homework\Problem 8\obj\Debug\Problem 8.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 8\bin\Debug\Problem 8.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 8\bin\Debug\Problem 8.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 8\bin\Debug\Problem 8.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 8\obj\Debug\Problem 8.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 8\obj\Debug\Problem 8.pdb

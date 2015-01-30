@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\06.Four-Digit Number\bin\Debug\06.Four-Digit Number.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\06.Four-Digit Number\bin\Debug\06.Four-Digit Number.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\06.Four-Digit Number\bin\Debug\06.Four-Digit Number.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\06.Four-Digit Number\obj\Debug\06.Four-Digit Number.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\06.Four-Digit Number\obj\Debug\06.Four-Digit Number.pdb

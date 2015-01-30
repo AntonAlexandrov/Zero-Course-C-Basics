@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bank Account\bin\Debug\Bank Account.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bank Account\bin\Debug\Bank Account.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bank Account\bin\Debug\Bank Account.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bank Account\obj\Debug\Bank Account.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bank Account\obj\Debug\Bank Account.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bank Account\obj\Debug\Bank Account.pdb

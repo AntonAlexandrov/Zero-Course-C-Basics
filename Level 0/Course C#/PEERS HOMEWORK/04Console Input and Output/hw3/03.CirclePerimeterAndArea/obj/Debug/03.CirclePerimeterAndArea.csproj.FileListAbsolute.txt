@@ -1,0 +1,11 @@
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache

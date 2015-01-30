@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\17.Catch The Bits\bin\Debug\17.Catch The Bits.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\17.Catch The Bits\bin\Debug\17.Catch The Bits.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\17.Catch The Bits\bin\Debug\17.Catch The Bits.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\17.Catch The Bits\obj\Debug\17.Catch The Bits.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\17.Catch The Bits\obj\Debug\17.Catch The Bits.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\17.Catch The Bits\obj\Debug\17.Catch The Bits.pdb

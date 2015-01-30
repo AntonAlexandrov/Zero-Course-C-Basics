@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\16.Decimal To Hexadecimal\bin\Debug\16.Decimal To Hexadecimal.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\16.Decimal To Hexadecimal\bin\Debug\16.Decimal To Hexadecimal.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\16.Decimal To Hexadecimal\bin\Debug\16.Decimal To Hexadecimal.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\16.Decimal To Hexadecimal\obj\Debug\16.Decimal To Hexadecimal.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\16.Decimal To Hexadecimal\obj\Debug\16.Decimal To Hexadecimal.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\16.Decimal To Hexadecimal\obj\Debug\16.Decimal To Hexadecimal.pdb

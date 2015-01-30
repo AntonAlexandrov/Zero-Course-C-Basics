@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\18.Trailing Zeroes in N Fact\bin\Debug\18.Trailing Zeroes in N Fact.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\18.Trailing Zeroes in N Fact\bin\Debug\18.Trailing Zeroes in N Fact.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\18.Trailing Zeroes in N Fact\bin\Debug\18.Trailing Zeroes in N Fact.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\18.Trailing Zeroes in N Fact\obj\Debug\18.Trailing Zeroes in N Fact.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\18.Trailing Zeroes in N Fact\obj\Debug\18.Trailing Zeroes in N Fact.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\18.Trailing Zeroes in N Fact\obj\Debug\18.Trailing Zeroes in N Fact.pdb

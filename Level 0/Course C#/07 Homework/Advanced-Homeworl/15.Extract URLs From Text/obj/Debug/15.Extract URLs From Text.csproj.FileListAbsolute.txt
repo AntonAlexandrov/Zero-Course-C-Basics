@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\15.Extract URLs From Text\bin\Debug\15.Extract URLs From Text.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\15.Extract URLs From Text\bin\Debug\15.Extract URLs From Text.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\15.Extract URLs From Text\bin\Debug\15.Extract URLs From Text.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\15.Extract URLs From Text\obj\Debug\15.Extract URLs From Text.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\15.Extract URLs From Text\obj\Debug\15.Extract URLs From Text.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\15.Extract URLs From Text\obj\Debug\15.Extract URLs From Text.pdb

@@ -1,0 +1,11 @@
+E:\PROGRAMMING\random projects\02 Homework\Boolean Variable\bin\Debug\Boolean Variable.exe.config
+E:\PROGRAMMING\random projects\02 Homework\Boolean Variable\bin\Debug\Boolean Variable.exe
+E:\PROGRAMMING\random projects\02 Homework\Boolean Variable\bin\Debug\Boolean Variable.pdb
+E:\PROGRAMMING\random projects\02 Homework\Boolean Variable\obj\Debug\Boolean Variable.exe
+E:\PROGRAMMING\random projects\02 Homework\Boolean Variable\obj\Debug\Boolean Variable.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Boolean Variable\bin\Debug\Boolean Variable.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Boolean Variable\obj\Debug\Boolean Variable.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Boolean Variable\obj\Debug\Boolean Variable.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Boolean Variable\bin\Debug\Boolean Variable.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Boolean Variable\bin\Debug\Boolean Variable.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Boolean Variable\obj\Debug\Boolean Variable.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+Eclypse - It's an IDE  that allows you to develop code that does not use the .NET framework. THe most popular language used in Eclypse is Java and Java Script. It is also free and has multi language support.
+NetBeans - An alternative to Eclypse. It is also free and even comes with pre-installed Java server called GlassFish. Sometimes it may slow down your computer or have some bugs.
+Code Blocks - IDE designed for developing C, C++ and other programs. It is an open source multi-system IDE similar to Visual Studio but with cleaner interface and upgradedability through plugins.
+FlashDevelop - IDE made mainly for developing Adobe Flash based applications, websites and programs. It is open source and multi-system software.
+PhpStprm - Powerful editor made for developing PHP code. It suppports HTML5, Java, Jabe Script and CSS. Great cross-platform tool for web developers as well as for begginers.

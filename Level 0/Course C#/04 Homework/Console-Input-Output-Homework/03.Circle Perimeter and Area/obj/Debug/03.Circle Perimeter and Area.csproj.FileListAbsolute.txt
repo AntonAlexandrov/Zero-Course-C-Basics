@@ -1,0 +1,11 @@
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\03.Circle Perimeter and Area\bin\Debug\03.Circle Perimeter and Area.exe.config
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\03.Circle Perimeter and Area\bin\Debug\03.Circle Perimeter and Area.exe
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\03.Circle Perimeter and Area\bin\Debug\03.Circle Perimeter and Area.pdb
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\03.Circle Perimeter and Area\obj\Debug\03.Circle Perimeter and Area.exe
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\03.Circle Perimeter and Area\obj\Debug\03.Circle Perimeter and Area.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\03.Circle Perimeter and Area\bin\Debug\03.Circle Perimeter and Area.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\03.Circle Perimeter and Area\bin\Debug\03.Circle Perimeter and Area.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\03.Circle Perimeter and Area\bin\Debug\03.Circle Perimeter and Area.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\03.Circle Perimeter and Area\obj\Debug\03.Circle Perimeter and Area.csprojResolveAssemblyReference.cache
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\03.Circle Perimeter and Area\obj\Debug\03.Circle Perimeter and Area.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\03.Circle Perimeter and Area\obj\Debug\03.Circle Perimeter and Area.pdb

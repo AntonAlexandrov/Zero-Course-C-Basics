@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\04.Rectangles\bin\Debug\04.Rectangles.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\04.Rectangles\bin\Debug\04.Rectangles.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\04.Rectangles\obj\Debug\04.Rectangles.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\04.Rectangles\obj\Debug\04.Rectangles.pdb

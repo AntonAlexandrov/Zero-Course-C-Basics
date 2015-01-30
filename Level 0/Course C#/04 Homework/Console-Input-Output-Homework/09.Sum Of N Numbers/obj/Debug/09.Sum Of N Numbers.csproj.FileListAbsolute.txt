@@ -1,0 +1,5 @@
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\09.Sum Of N Numbers\bin\Debug\09.Sum Of N Numbers.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\09.Sum Of N Numbers\bin\Debug\09.Sum Of N Numbers.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\09.Sum Of N Numbers\bin\Debug\09.Sum Of N Numbers.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\09.Sum Of N Numbers\obj\Debug\09.Sum Of N Numbers.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\09.Sum Of N Numbers\obj\Debug\09.Sum Of N Numbers.pdb

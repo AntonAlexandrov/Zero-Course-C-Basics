@@ -1,0 +1,12 @@
+E:\PROGRAMMING\random projects\01 Homework\Problem 6\bin\Debug\Problem 6.exe.config
+E:\PROGRAMMING\random projects\01 Homework\Problem 6\bin\Debug\Problem 6.exe
+E:\PROGRAMMING\random projects\01 Homework\Problem 6\bin\Debug\Problem 6.pdb
+E:\PROGRAMMING\random projects\01 Homework\Problem 6\obj\Debug\Problem 6.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\random projects\01 Homework\Problem 6\obj\Debug\Problem 6.exe
+E:\PROGRAMMING\random projects\01 Homework\Problem 6\obj\Debug\Problem 6.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 6\bin\Debug\Problem 6.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 6\bin\Debug\Problem 6.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 6\bin\Debug\Problem 6.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 6\obj\Debug\Problem 6.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 6\obj\Debug\Problem 6.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 6\obj\Debug\Problem 6.pdb

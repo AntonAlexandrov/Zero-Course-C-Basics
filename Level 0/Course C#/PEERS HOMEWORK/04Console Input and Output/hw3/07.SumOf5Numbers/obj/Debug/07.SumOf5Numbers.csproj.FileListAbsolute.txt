@@ -1,0 +1,10 @@
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb

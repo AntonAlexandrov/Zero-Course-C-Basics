@@ -1,0 +1,10 @@
+E:\PROGRAMMING\random projects\01 Homework\Problem 14\bin\Debug\Problem 14.exe.config
+E:\PROGRAMMING\random projects\01 Homework\Problem 14\bin\Debug\Problem 14.exe
+E:\PROGRAMMING\random projects\01 Homework\Problem 14\bin\Debug\Problem 14.pdb
+E:\PROGRAMMING\random projects\01 Homework\Problem 14\obj\Debug\Problem 14.exe
+E:\PROGRAMMING\random projects\01 Homework\Problem 14\obj\Debug\Problem 14.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 14\bin\Debug\Problem 14.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 14\bin\Debug\Problem 14.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 14\bin\Debug\Problem 14.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 14\obj\Debug\Problem 14.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 14\obj\Debug\Problem 14.pdb

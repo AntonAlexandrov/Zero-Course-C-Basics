@@ -1,0 +1,5 @@
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe.config
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\04DifferenceBetweenDates\bin\Debug\04DifferenceBetweenDates.pdb
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\04DifferenceBetweenDates\obj\Debug\04DifferenceBetweenDates.pdb

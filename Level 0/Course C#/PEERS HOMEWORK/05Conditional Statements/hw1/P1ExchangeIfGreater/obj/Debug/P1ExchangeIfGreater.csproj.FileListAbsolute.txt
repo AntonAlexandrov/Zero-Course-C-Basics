@@ -1,0 +1,9 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P1ExchangeIfGreater\bin\Debug\P1ExchangeIfGreater.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P1ExchangeIfGreater\bin\Debug\P1ExchangeIfGreater.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P1ExchangeIfGreater\bin\Debug\P1ExchangeIfGreater.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P1ExchangeIfGreater\obj\Debug\P1ExchangeIfGreater.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P1ExchangeIfGreater\obj\Debug\P1ExchangeIfGreater.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P1ExchangeIfGreater\obj\Debug\P1ExchangeIfGreater.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P1ExchangeIfGreater\bin\Debug\P1ExchangeIfGreater.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P1ExchangeIfGreater\obj\Debug\P1ExchangeIfGreater.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P1ExchangeIfGreater\obj\Debug\P1ExchangeIfGreater.pdb

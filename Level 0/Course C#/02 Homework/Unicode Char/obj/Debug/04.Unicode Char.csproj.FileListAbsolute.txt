@@ -1,0 +1,3 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Unicode Char\bin\Debug\Unicode Char.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Unicode Char\obj\Debug\Unicode Char.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Unicode Char\obj\Debug\Unicode Char.pdb

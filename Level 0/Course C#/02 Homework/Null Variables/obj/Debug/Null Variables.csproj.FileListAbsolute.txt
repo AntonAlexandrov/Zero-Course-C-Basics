@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Null Variables\bin\Debug\Null Variables.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Null Variables\bin\Debug\Null Variables.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Null Variables\bin\Debug\Null Variables.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Null Variables\obj\Debug\Null Variables.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Null Variables\obj\Debug\Null Variables.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Null Variables\obj\Debug\Null Variables.csprojResolveAssemblyReference.cache

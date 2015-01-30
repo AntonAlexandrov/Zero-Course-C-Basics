@@ -1,0 +1,10 @@
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumNfNNumbers\bin\Debug\09SumNfNNumbers.exe.config
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumNfNNumbers\bin\Debug\09SumNfNNumbers.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumNfNNumbers\bin\Debug\09SumNfNNumbers.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumNfNNumbers\obj\Debug\09SumNfNNumbers.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\09SumNfNNumbers\obj\Debug\09SumNfNNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\09SumNfNNumbers\bin\Debug\09SumNfNNumbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\09SumNfNNumbers\obj\Debug\09SumNfNNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\09SumNfNNumbers\obj\Debug\09SumNfNNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\09SumNfNNumbers\bin\Debug\09SumNfNNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\09SumNfNNumbers\bin\Debug\09SumNfNNumbers.pdb

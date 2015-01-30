@@ -1,0 +1,9 @@
+E:\PROGRAMMING\random projects\02 Homework\Declare Variables\bin\Debug\Declare Variables.exe.config
+E:\PROGRAMMING\random projects\02 Homework\Declare Variables\bin\Debug\Declare Variables.exe
+E:\PROGRAMMING\random projects\02 Homework\Declare Variables\bin\Debug\Declare Variables.pdb
+E:\PROGRAMMING\random projects\02 Homework\Declare Variables\obj\Debug\Declare Variables.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\random projects\02 Homework\Declare Variables\obj\Debug\Declare Variables.exe
+E:\PROGRAMMING\random projects\02 Homework\Declare Variables\obj\Debug\Declare Variables.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Declare Variables\bin\Debug\Declare Variables.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Declare Variables\obj\Debug\Declare Variables.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Declare Variables\obj\Debug\Declare Variables.pdb

@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\16.Counting A Word In Text\bin\Debug\16.Counting A Word In Text.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\16.Counting A Word In Text\bin\Debug\16.Counting A Word In Text.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\16.Counting A Word In Text\bin\Debug\16.Counting A Word In Text.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\16.Counting A Word In Text\obj\Debug\16.Counting A Word In Text.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\16.Counting A Word In Text\obj\Debug\16.Counting A Word In Text.pdb

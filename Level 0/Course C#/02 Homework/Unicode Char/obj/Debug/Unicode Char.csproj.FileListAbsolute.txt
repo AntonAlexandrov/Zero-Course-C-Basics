@@ -1,0 +1,8 @@
+E:\PROGRAMMING\random projects\02 Homework\Unicode Char\bin\Debug\Unicode Char.exe.config
+E:\PROGRAMMING\random projects\02 Homework\Unicode Char\bin\Debug\Unicode Char.exe
+E:\PROGRAMMING\random projects\02 Homework\Unicode Char\bin\Debug\Unicode Char.pdb
+E:\PROGRAMMING\random projects\02 Homework\Unicode Char\obj\Debug\Unicode Char.exe
+E:\PROGRAMMING\random projects\02 Homework\Unicode Char\obj\Debug\Unicode Char.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Unicode Char\bin\Debug\Unicode Char.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Unicode Char\obj\Debug\Unicode Char.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Unicode Char\obj\Debug\Unicode Char.pdb

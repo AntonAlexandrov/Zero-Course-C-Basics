@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\07.Point In A Circle\bin\Debug\07.Point In A Circle.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\07.Point In A Circle\bin\Debug\07.Point In A Circle.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\07.Point In A Circle\bin\Debug\07.Point In A Circle.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\07.Point In A Circle\obj\Debug\07.Point In A Circle.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\07.Point In A Circle\obj\Debug\07.Point In A Circle.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\07.Point In A Circle\obj\Debug\07.Point In A Circle.pdb

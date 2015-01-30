@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Joro the Football Player\bin\Debug\Joro the Football Player.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Joro the Football Player\bin\Debug\Joro the Football Player.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Joro the Football Player\bin\Debug\Joro the Football Player.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Joro the Football Player\obj\Debug\Joro the Football Player.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Joro the Football Player\obj\Debug\Joro the Football Player.pdb

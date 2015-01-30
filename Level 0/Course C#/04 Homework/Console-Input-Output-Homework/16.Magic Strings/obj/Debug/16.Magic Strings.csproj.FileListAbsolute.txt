@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\16.Magic Strings\bin\Debug\16.Magic Strings.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\16.Magic Strings\bin\Debug\16.Magic Strings.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\16.Magic Strings\bin\Debug\16.Magic Strings.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\16.Magic Strings\obj\Debug\16.Magic Strings.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\16.Magic Strings\obj\Debug\16.Magic Strings.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\16.Magic Strings\obj\Debug\16.Magic Strings.pdb

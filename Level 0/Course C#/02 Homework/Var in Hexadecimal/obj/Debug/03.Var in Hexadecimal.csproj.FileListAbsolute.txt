@@ -1,0 +1,3 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Var in Hexadecimal\bin\Debug\Var in Hexadecimal.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Var in Hexadecimal\obj\Debug\Var in Hexadecimal.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Var in Hexadecimal\obj\Debug\Var in Hexadecimal.pdb

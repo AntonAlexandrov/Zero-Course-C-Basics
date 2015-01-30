@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\13.Binary To Decimal\bin\Debug\13.Binary To Decimal.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\13.Binary To Decimal\bin\Debug\13.Binary To Decimal.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\13.Binary To Decimal\bin\Debug\13.Binary To Decimal.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\13.Binary To Decimal\obj\Debug\13.Binary To Decimal.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\13.Binary To Decimal\obj\Debug\13.Binary To Decimal.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\13.Binary To Decimal\obj\Debug\13.Binary To Decimal.pdb

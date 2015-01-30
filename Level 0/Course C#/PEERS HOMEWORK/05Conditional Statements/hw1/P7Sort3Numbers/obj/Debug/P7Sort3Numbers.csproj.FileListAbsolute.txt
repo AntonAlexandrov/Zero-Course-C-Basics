@@ -1,0 +1,9 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P7Sort3Numbers\bin\Debug\P7Sort3Numbers.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P7Sort3Numbers\bin\Debug\P7Sort3Numbers.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P7Sort3Numbers\bin\Debug\P7Sort3Numbers.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P7Sort3Numbers\obj\Debug\P7Sort3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P7Sort3Numbers\obj\Debug\P7Sort3Numbers.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P7Sort3Numbers\obj\Debug\P7Sort3Numbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P7Sort3Numbers\bin\Debug\P7Sort3Numbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P7Sort3Numbers\obj\Debug\P7Sort3Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P7Sort3Numbers\obj\Debug\P7Sort3Numbers.pdb

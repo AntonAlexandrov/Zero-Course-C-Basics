@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\14.Sum Of Elements\bin\Debug\14.Sum Of Elements.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\14.Sum Of Elements\bin\Debug\14.Sum Of Elements.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\14.Sum Of Elements\bin\Debug\14.Sum Of Elements.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\14.Sum Of Elements\obj\Debug\14.Sum Of Elements.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\14.Sum Of Elements\obj\Debug\14.Sum Of Elements.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\14.Sum Of Elements\obj\Debug\14.Sum Of Elements.pdb

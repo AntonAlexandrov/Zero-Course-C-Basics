@@ -1,0 +1,11 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Program 16\bin\Debug\Program 16.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Program 16\obj\Debug\Program 16.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Program 16\obj\Debug\Program 16.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Program 16\bin\Debug\Program 16.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Program 16\bin\Debug\Program 16.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 16\bin\Debug\Program 16.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 16\obj\Debug\Program 16.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 16\obj\Debug\Program 16.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 16\bin\Debug\Program 16.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 16\bin\Debug\Program 16.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 16\obj\Debug\Problem 16.csprojResolveAssemblyReference.cache

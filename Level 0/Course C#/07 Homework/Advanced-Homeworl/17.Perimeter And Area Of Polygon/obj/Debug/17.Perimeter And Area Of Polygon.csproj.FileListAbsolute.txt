@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\17.Perimeter And Area Of Polygon\bin\Debug\17.Perimeter And Area Of Polygon.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\17.Perimeter And Area Of Polygon\bin\Debug\17.Perimeter And Area Of Polygon.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\17.Perimeter And Area Of Polygon\bin\Debug\17.Perimeter And Area Of Polygon.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\17.Perimeter And Area Of Polygon\obj\Debug\17.Perimeter And Area Of Polygon.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\17.Perimeter And Area Of Polygon\obj\Debug\17.Perimeter And Area Of Polygon.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\17.Perimeter And Area Of Polygon\obj\Debug\17.Perimeter And Area Of Polygon.pdb

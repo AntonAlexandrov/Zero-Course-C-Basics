@@ -1,0 +1,8 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb

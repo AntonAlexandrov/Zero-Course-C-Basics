@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\14.Modify A Bit At Position\bin\Debug\14.Modify A Bit At Position.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\14.Modify A Bit At Position\bin\Debug\14.Modify A Bit At Position.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\14.Modify A Bit At Position\bin\Debug\14.Modify A Bit At Position.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\14.Modify A Bit At Position\obj\Debug\14.Modify A Bit At Position.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\14.Modify A Bit At Position\obj\Debug\14.Modify A Bit At Position.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\14.Modify A Bit At Position\obj\Debug\14.Modify A Bit At Position.pdb

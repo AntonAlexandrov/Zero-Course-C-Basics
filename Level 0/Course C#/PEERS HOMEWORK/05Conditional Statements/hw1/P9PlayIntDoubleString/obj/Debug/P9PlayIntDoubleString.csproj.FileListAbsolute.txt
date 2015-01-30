@@ -1,0 +1,9 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P9PlayIntDoubleString\bin\Debug\P9PlayIntDoubleString.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P9PlayIntDoubleString\bin\Debug\P9PlayIntDoubleString.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P9PlayIntDoubleString\bin\Debug\P9PlayIntDoubleString.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P9PlayIntDoubleString\obj\Debug\P9PlayIntDoubleString.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P9PlayIntDoubleString\obj\Debug\P9PlayIntDoubleString.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P9PlayIntDoubleString\obj\Debug\P9PlayIntDoubleString.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P9PlayIntDoubleString\bin\Debug\P9PlayIntDoubleString.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P9PlayIntDoubleString\obj\Debug\P9PlayIntDoubleString.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P9PlayIntDoubleString\obj\Debug\P9PlayIntDoubleString.pdb

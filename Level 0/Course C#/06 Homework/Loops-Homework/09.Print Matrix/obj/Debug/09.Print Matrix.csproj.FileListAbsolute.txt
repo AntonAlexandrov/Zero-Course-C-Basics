@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\09.Print Matrix\bin\Debug\09.Print Matrix.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\09.Print Matrix\obj\Debug\09.Print Matrix.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\09.Print Matrix\bin\Debug\09.Print Matrix.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\09.Print Matrix\bin\Debug\09.Print Matrix.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\09.Print Matrix\obj\Debug\09.Print Matrix.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\09.Print Matrix\obj\Debug\09.Print Matrix.pdb

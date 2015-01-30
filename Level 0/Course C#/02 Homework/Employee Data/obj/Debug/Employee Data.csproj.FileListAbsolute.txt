@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Employee Data\bin\Debug\Employee Data.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Employee Data\bin\Debug\Employee Data.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Employee Data\bin\Debug\Employee Data.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Employee Data\obj\Debug\Employee Data.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Employee Data\obj\Debug\Employee Data.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Employee Data\obj\Debug\Employee Data.pdb

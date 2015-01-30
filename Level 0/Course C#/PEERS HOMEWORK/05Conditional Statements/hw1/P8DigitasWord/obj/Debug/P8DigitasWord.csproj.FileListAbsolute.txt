@@ -1,0 +1,9 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P8DigitasWord\bin\Debug\P8DigitasWord.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P8DigitasWord\obj\Debug\P8DigitasWord.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P8DigitasWord\bin\Debug\P8DigitasWord.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P8DigitasWord\bin\Debug\P8DigitasWord.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P8DigitasWord\obj\Debug\P8DigitasWord.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P8DigitasWord\obj\Debug\P8DigitasWord.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P8DigitasWord\bin\Debug\P8DigitasWord.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P8DigitasWord\obj\Debug\P8DigitasWord.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P8DigitasWord\obj\Debug\P8DigitasWord.pdb

@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\04.Multiplication Sign\bin\Debug\04.Multiplication Sign.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\04.Multiplication Sign\bin\Debug\04.Multiplication Sign.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\04.Multiplication Sign\bin\Debug\04.Multiplication Sign.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\04.Multiplication Sign\obj\Debug\04.Multiplication Sign.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\04.Multiplication Sign\obj\Debug\04.Multiplication Sign.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\04.Multiplication Sign\obj\Debug\04.Multiplication Sign.pdb

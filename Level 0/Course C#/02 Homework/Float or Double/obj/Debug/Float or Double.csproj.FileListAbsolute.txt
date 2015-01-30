@@ -1,0 +1,9 @@
+E:\PROGRAMMING\random projects\02 Homework\Float or Double\bin\Debug\Float or Double.exe.config
+E:\PROGRAMMING\random projects\02 Homework\Float or Double\bin\Debug\Float or Double.exe
+E:\PROGRAMMING\random projects\02 Homework\Float or Double\bin\Debug\Float or Double.pdb
+E:\PROGRAMMING\random projects\02 Homework\Float or Double\obj\Debug\Float or Double.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\random projects\02 Homework\Float or Double\obj\Debug\Float or Double.exe
+E:\PROGRAMMING\random projects\02 Homework\Float or Double\obj\Debug\Float or Double.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Float or Double\bin\Debug\Float or Double.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Float or Double\obj\Debug\Float or Double.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Float or Double\obj\Debug\Float or Double.pdb

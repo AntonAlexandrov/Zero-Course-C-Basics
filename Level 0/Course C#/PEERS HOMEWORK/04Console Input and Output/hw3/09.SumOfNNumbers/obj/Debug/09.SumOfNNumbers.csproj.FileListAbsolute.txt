@@ -1,0 +1,10 @@
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb

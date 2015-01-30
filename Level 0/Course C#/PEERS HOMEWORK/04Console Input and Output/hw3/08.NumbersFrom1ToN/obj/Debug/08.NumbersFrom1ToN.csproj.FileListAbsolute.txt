@@ -1,0 +1,10 @@
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.pdb
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.pdb

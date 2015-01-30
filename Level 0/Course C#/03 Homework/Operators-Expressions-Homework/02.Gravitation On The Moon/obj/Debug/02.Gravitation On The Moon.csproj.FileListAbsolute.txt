@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\02.Gravitation On The Moon\bin\Debug\02.Gravitation On The Moon.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\02.Gravitation On The Moon\bin\Debug\02.Gravitation On The Moon.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\02.Gravitation On The Moon\bin\Debug\02.Gravitation On The Moon.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\02.Gravitation On The Moon\obj\Debug\02.Gravitation On The Moon.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\02.Gravitation On The Moon\obj\Debug\02.Gravitation On The Moon.pdb

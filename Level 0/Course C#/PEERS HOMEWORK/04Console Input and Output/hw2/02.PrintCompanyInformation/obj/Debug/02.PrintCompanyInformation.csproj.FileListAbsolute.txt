@@ -1,0 +1,9 @@
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\04.Number Comparer\bin\Debug\04.Number Comparer.exe.config
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\04.Number Comparer\obj\Debug\04.Number Comparer.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\04.Number Comparer\bin\Debug\04.Number Comparer.exe
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\04.Number Comparer\bin\Debug\04.Number Comparer.pdb
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\04.Number Comparer\obj\Debug\04.Number Comparer.exe
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\04.Number Comparer\obj\Debug\04.Number Comparer.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\04.Number Comparer\bin\Debug\04.Number Comparer.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\04.Number Comparer\obj\Debug\04.Number Comparer.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\04.Number Comparer\obj\Debug\04.Number Comparer.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\04.Number Comparer\bin\Debug\04.Number Comparer.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\04.Number Comparer\obj\Debug\04.Number Comparer.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\04.Number Comparer\obj\Debug\04.Number Comparer.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\04.Number Comparer\bin\Debug\04.Number Comparer.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\04.Number Comparer\bin\Debug\04.Number Comparer.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\04.Number Comparer\obj\Debug\04.Number Comparer.csprojResolveAssemblyReference.cache

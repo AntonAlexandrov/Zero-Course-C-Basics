@@ -1,0 +1,10 @@
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb

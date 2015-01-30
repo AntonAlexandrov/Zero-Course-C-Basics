@@ -1,0 +1,9 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P3CheckaPlayCard\bin\Debug\P3CheckaPlayCard.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P3CheckaPlayCard\bin\Debug\P3CheckaPlayCard.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P3CheckaPlayCard\bin\Debug\P3CheckaPlayCard.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P3CheckaPlayCard\obj\Debug\P3CheckaPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P3CheckaPlayCard\obj\Debug\P3CheckaPlayCard.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P3CheckaPlayCard\obj\Debug\P3CheckaPlayCard.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P3CheckaPlayCard\bin\Debug\P3CheckaPlayCard.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P3CheckaPlayCard\obj\Debug\P3CheckaPlayCard.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P3CheckaPlayCard\obj\Debug\P3CheckaPlayCard.pdb

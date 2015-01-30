@@ -1,0 +1,8 @@
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

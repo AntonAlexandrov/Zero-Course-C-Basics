@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\20.Programmer DNA\bin\Debug\20.Programmer DNA.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\20.Programmer DNA\bin\Debug\20.Programmer DNA.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\20.Programmer DNA\bin\Debug\20.Programmer DNA.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\20.Programmer DNA\obj\Debug\20.Programmer DNA.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\20.Programmer DNA\obj\Debug\20.Programmer DNA.pdb

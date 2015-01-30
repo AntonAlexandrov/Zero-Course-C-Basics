@@ -1,0 +1,5 @@
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\08LongestNonDecreasingSubsequence\bin\Debug\08LongestNonDecreasingSubsequence.exe.config
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\08LongestNonDecreasingSubsequence\bin\Debug\08LongestNonDecreasingSubsequence.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\08LongestNonDecreasingSubsequence\bin\Debug\08LongestNonDecreasingSubsequence.pdb
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\08LongestNonDecreasingSubsequence\obj\Debug\08LongestNonDecreasingSubsequence.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\08LongestNonDecreasingSubsequence\obj\Debug\08LongestNonDecreasingSubsequence.pdb

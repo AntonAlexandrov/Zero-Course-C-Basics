@@ -1,0 +1,8 @@
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb

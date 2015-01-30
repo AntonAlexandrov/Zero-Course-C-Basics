@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\16.Bits Exchange Advanced\bin\Debug\16.Bits Exchange Advanced.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\16.Bits Exchange Advanced\bin\Debug\16.Bits Exchange Advanced.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\16.Bits Exchange Advanced\bin\Debug\16.Bits Exchange Advanced.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\16.Bits Exchange Advanced\obj\Debug\16.Bits Exchange Advanced.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\16.Bits Exchange Advanced\obj\Debug\16.Bits Exchange Advanced.pdb

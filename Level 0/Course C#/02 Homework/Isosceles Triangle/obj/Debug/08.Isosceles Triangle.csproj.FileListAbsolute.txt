@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Isosceles Triangle\bin\Debug\Isosceles Triangle.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Isosceles Triangle\obj\Debug\Isosceles Triangle.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Isosceles Triangle\obj\Debug\Isosceles Triangle.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Isosceles Triangle\bin\Debug\Isosceles Triangle.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Isosceles Triangle\bin\Debug\Isosceles Triangle.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Isosceles Triangle\obj\Debug\08.Isosceles Triangle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\04.NumberComparer\obj\Debug\04.NumberComparer.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\04.NumberComparer\obj\Debug\04.NumberComparer.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\04.NumberComparer\bin\Debug\04.NumberComparer.pdb

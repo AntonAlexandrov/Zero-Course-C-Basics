@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\13.Work Hours\bin\Debug\13.Work Hours.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\13.Work Hours\bin\Debug\13.Work Hours.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\13.Work Hours\bin\Debug\13.Work Hours.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\13.Work Hours\obj\Debug\13.Work Hours.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\13.Work Hours\obj\Debug\13.Work Hours.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\13.Work Hours\obj\Debug\13.Work Hours.pdb

@@ -1,0 +1,21 @@
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\01.Sum Of 3 Numbers\bin\Debug\01.Sum Of 3 Numbers.exe.config
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\01.Sum Of 3 Numbers\bin\Debug\01.Sum Of 3 Numbers.exe
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\01.Sum Of 3 Numbers\bin\Debug\01.Sum Of 3 Numbers.pdb
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.csprojResolveAssemblyReference.cache
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.exe
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\bin\Debug\01.Sum Of 3 Numbers.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\bin\Debug\01.Sum Of 3 Numbers.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\bin\Debug\01.Sum Of 3 Numbers.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\bin\Debug\01.Sum Of 3 Numbers.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\bin\Debug\01.Sum Of 3 Numbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.pdb
+E:\SOFT UNI\PROJECTS\Level 0\Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\bin\Debug\01.Sum Of 3 Numbers.exe.config
+E:\SOFT UNI\PROJECTS\Level 0\Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.exe
+E:\SOFT UNI\PROJECTS\Level 0\Course C#\04 Homework\Console-Input-Output-Homework\01.Sum Of 3 Numbers\obj\Debug\01.Sum Of 3 Numbers.pdb

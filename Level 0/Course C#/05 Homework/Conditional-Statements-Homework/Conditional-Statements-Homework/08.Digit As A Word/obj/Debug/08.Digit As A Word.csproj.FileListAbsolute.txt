@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\08.Digit As A Word\bin\Debug\08.Digit As A Word.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\08.Digit As A Word\bin\Debug\08.Digit As A Word.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\08.Digit As A Word\bin\Debug\08.Digit As A Word.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\08.Digit As A Word\obj\Debug\08.Digit As A Word.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\08.Digit As A Word\obj\Debug\08.Digit As A Word.pdb

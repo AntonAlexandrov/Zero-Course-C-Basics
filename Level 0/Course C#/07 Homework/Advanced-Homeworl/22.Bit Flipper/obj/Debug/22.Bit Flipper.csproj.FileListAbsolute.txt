@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\22.Bit Flipper\bin\Debug\22.Bit Flipper.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\22.Bit Flipper\bin\Debug\22.Bit Flipper.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\22.Bit Flipper\bin\Debug\22.Bit Flipper.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\22.Bit Flipper\obj\Debug\22.Bit Flipper.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\22.Bit Flipper\obj\Debug\22.Bit Flipper.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\22.Bit Flipper\obj\Debug\22.Bit Flipper.pdb

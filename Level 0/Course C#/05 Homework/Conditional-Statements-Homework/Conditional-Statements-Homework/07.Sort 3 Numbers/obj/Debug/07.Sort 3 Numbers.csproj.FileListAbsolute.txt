@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\07.Sort 3 Numbers\bin\Debug\07.Sort 3 Numbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\07.Sort 3 Numbers\bin\Debug\07.Sort 3 Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\07.Sort 3 Numbers\bin\Debug\07.Sort 3 Numbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\07.Sort 3 Numbers\obj\Debug\07.Sort 3 Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\07.Sort 3 Numbers\obj\Debug\07.Sort 3 Numbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\07.Sort 3 Numbers\obj\Debug\07.Sort 3 Numbers.csprojResolveAssemblyReference.cache

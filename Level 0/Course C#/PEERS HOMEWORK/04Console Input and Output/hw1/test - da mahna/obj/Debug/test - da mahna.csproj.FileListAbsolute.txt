@@ -1,0 +1,6 @@
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\bin\Debug\test - da mahna.exe.config
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\bin\Debug\test - da mahna.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\bin\Debug\test - da mahna.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\obj\Debug\test - da mahna.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\obj\Debug\test - da mahna.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\obj\Debug\test - da mahna.pdb

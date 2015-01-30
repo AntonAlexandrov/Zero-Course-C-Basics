@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\10.Point Inside Circle and Rectangle\bin\Debug\10.Point Inside Circle and Rectangle.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\10.Point Inside Circle and Rectangle\bin\Debug\10.Point Inside Circle and Rectangle.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\10.Point Inside Circle and Rectangle\bin\Debug\10.Point Inside Circle and Rectangle.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\10.Point Inside Circle and Rectangle\obj\Debug\10.Point Inside Circle and Rectangle.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\10.Point Inside Circle and Rectangle\obj\Debug\10.Point Inside Circle and Rectangle.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\10.Point Inside Circle and Rectangle\obj\Debug\10.Point Inside Circle and Rectangle.pdb

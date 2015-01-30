@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\01.Numbers From 1 To N\bin\Debug\01.Numbers From 1 To N.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\01.Numbers From 1 To N\bin\Debug\01.Numbers From 1 To N.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\01.Numbers From 1 To N\bin\Debug\01.Numbers From 1 To N.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\01.Numbers From 1 To N\obj\Debug\01.Numbers From 1 To N.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\01.Numbers From 1 To N\obj\Debug\01.Numbers From 1 To N.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\01.Numbers From 1 To N\obj\Debug\01.Numbers From 1 To N.pdb

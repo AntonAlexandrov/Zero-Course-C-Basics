@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\03.Primes in Given Range\bin\Debug\03.Primes in Given Range.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\03.Primes in Given Range\bin\Debug\03.Primes in Given Range.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\03.Primes in Given Range\bin\Debug\03.Primes in Given Range.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\03.Primes in Given Range\obj\Debug\03.Primes in Given Range.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\03.Primes in Given Range\obj\Debug\03.Primes in Given Range.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\03.Primes in Given Range\obj\Debug\03.Primes in Given Range.pdb

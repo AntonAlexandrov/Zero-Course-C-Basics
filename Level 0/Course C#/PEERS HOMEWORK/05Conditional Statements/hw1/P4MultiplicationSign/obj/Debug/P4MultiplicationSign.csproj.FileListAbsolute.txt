@@ -1,0 +1,9 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P4MultiplicationSign\bin\Debug\P4MultiplicationSign.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P4MultiplicationSign\bin\Debug\P4MultiplicationSign.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P4MultiplicationSign\bin\Debug\P4MultiplicationSign.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P4MultiplicationSign\obj\Debug\P4MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P4MultiplicationSign\obj\Debug\P4MultiplicationSign.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P4MultiplicationSign\obj\Debug\P4MultiplicationSign.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P4MultiplicationSign\bin\Debug\P4MultiplicationSign.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P4MultiplicationSign\obj\Debug\P4MultiplicationSign.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P4MultiplicationSign\obj\Debug\P4MultiplicationSign.pdb

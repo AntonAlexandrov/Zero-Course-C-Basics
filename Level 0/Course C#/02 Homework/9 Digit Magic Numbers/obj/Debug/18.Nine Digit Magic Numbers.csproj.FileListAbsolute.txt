@@ -1,0 +1,3 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\9 Digit Magic Numbers\bin\Debug\9 Digit Magic Numbers.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\9 Digit Magic Numbers\obj\Debug\9 Digit Magic Numbers.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\9 Digit Magic Numbers\obj\Debug\9 Digit Magic Numbers.pdb

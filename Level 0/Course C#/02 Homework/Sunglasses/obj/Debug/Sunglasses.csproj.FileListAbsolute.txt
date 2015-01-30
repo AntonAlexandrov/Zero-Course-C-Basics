@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Sunglasses\bin\Debug\Sunglasses.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Sunglasses\bin\Debug\Sunglasses.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Sunglasses\bin\Debug\Sunglasses.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Sunglasses\obj\Debug\Sunglasses.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Sunglasses\obj\Debug\Sunglasses.pdb

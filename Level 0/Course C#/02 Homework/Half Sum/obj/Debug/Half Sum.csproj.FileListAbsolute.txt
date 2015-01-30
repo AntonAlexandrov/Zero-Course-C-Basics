@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Half Sum\bin\Debug\Half Sum.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Half Sum\bin\Debug\Half Sum.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Half Sum\bin\Debug\Half Sum.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Half Sum\obj\Debug\Half Sum.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Half Sum\obj\Debug\Half Sum.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Half Sum\obj\Debug\Half Sum.pdb

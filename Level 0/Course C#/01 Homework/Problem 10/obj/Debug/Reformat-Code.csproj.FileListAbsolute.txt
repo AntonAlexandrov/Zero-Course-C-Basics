@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 10\bin\Debug\Problem 10.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 10\bin\Debug\Problem 10.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 10\bin\Debug\Problem 10.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 10\obj\Debug\Problem 10.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\01 Homework\Problem 10\obj\Debug\Problem 10.pdb

@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Print ASCII\bin\Debug\Print ASCII.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Print ASCII\bin\Debug\Print ASCII.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Print ASCII\bin\Debug\Print ASCII.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Print ASCII\obj\Debug\Print ASCII.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Print ASCII\obj\Debug\Print ASCII.pdb

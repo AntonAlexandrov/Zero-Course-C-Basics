@@ -1,0 +1,3 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bank Account\bin\Debug\Bank Account.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bank Account\obj\Debug\Bank Account.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bank Account\obj\Debug\Bank Account.pdb

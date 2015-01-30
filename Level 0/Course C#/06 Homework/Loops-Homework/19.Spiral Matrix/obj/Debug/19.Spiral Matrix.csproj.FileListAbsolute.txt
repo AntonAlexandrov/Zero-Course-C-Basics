@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.pdb

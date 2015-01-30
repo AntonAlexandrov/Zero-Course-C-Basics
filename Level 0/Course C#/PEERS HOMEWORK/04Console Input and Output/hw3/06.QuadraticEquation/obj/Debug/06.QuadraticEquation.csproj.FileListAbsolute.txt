@@ -1,0 +1,12 @@
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+c:\users\neca\documents\visual studio 2013\Projects\HomeWork4\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw3\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache

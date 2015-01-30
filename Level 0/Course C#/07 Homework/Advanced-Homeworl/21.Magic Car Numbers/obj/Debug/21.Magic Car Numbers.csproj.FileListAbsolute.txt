@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\21.Magic Car Numbers\bin\Debug\21.Magic Car Numbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\21.Magic Car Numbers\bin\Debug\21.Magic Car Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\21.Magic Car Numbers\bin\Debug\21.Magic Car Numbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\21.Magic Car Numbers\obj\Debug\21.Magic Car Numbers.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\21.Magic Car Numbers\obj\Debug\21.Magic Car Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\21.Magic Car Numbers\obj\Debug\21.Magic Car Numbers.pdb

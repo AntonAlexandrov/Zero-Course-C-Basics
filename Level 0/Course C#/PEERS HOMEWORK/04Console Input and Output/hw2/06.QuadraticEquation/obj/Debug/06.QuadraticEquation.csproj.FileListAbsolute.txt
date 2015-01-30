@@ -1,0 +1,8 @@
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+c:\users\1337\documents\visual studio 2013\Projects\ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw2\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb

@@ -1,0 +1,9 @@
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P2BonusScore\bin\Debug\P2BonusScore.exe.config
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P2BonusScore\bin\Debug\P2BonusScore.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P2BonusScore\bin\Debug\P2BonusScore.pdb
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P2BonusScore\obj\Debug\P2BonusScore.csprojResolveAssemblyReference.cache
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P2BonusScore\obj\Debug\P2BonusScore.exe
+c:\users\nikolay\documents\visual studio 2013\Projects\HomeworkConditionalStatements\P2BonusScore\obj\Debug\P2BonusScore.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P2BonusScore\bin\Debug\P2BonusScore.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P2BonusScore\obj\Debug\P2BonusScore.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\05Conditional Statements\hw1\P2BonusScore\obj\Debug\P2BonusScore.pdb

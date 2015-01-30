@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\05.Biggest Number Of 3\bin\Debug\05.Biggest Number Of 3.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\05.Biggest Number Of 3\bin\Debug\05.Biggest Number Of 3.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\05.Biggest Number Of 3\bin\Debug\05.Biggest Number Of 3.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\05.Biggest Number Of 3\obj\Debug\05.Biggest Number Of 3.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\05.Biggest Number Of 3\obj\Debug\05.Biggest Number Of 3.pdb

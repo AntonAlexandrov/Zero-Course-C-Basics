@@ -1,0 +1,6 @@
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\08.Numbers From 1 To N\bin\Debug\08.Numbers From 1 To N.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\08.Numbers From 1 To N\bin\Debug\08.Numbers From 1 To N.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\08.Numbers From 1 To N\bin\Debug\08.Numbers From 1 To N.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\08.Numbers From 1 To N\obj\Debug\08.Numbers From 1 To N.csprojResolveAssemblyReference.cache
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\08.Numbers From 1 To N\obj\Debug\08.Numbers From 1 To N.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\08.Numbers From 1 To N\obj\Debug\08.Numbers From 1 To N.pdb

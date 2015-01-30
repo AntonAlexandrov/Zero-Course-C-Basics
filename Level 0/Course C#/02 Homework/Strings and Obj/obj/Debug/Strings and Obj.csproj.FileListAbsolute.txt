@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Strings and Obj\bin\Debug\Strings and Obj.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Strings and Obj\bin\Debug\Strings and Obj.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Strings and Obj\bin\Debug\Strings and Obj.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Strings and Obj\obj\Debug\Strings and Obj.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Strings and Obj\obj\Debug\Strings and Obj.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Strings and Obj\obj\Debug\Strings and Obj.pdb

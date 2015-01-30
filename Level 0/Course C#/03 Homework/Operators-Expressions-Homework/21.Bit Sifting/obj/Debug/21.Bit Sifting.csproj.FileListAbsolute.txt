@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\21.Bit Sifting\bin\Debug\21.Bit Sifting.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\21.Bit Sifting\bin\Debug\21.Bit Sifting.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\21.Bit Sifting\bin\Debug\21.Bit Sifting.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\21.Bit Sifting\obj\Debug\21.Bit Sifting.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\21.Bit Sifting\obj\Debug\21.Bit Sifting.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\21.Bit Sifting\obj\Debug\21.Bit Sifting.pdb

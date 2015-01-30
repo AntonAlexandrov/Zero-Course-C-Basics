@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\13.Check A Bit At Position\bin\Debug\13.Check A Bit At Position.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\13.Check A Bit At Position\bin\Debug\13.Check A Bit At Position.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\13.Check A Bit At Position\bin\Debug\13.Check A Bit At Position.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\13.Check A Bit At Position\obj\Debug\13.Check A Bit At Position.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\13.Check A Bit At Position\obj\Debug\13.Check A Bit At Position.pdb

@@ -1,0 +1,12 @@
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\bin\Debug\test - da mahna.exe.config
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\bin\Debug\test - da mahna.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\bin\Debug\test - da mahna.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\obj\Debug\11NumbersInIntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\obj\Debug\test - da mahna.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\test - da mahna\obj\Debug\test - da mahna.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\test - da mahna\bin\Debug\test - da mahna.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\test - da mahna\obj\Debug\test - da mahna.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\test - da mahna\obj\Debug\test - da mahna.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\test - da mahna\bin\Debug\test - da mahna.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\test - da mahna\bin\Debug\test - da mahna.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\test - da mahna\obj\Debug\11NumbersInIntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache

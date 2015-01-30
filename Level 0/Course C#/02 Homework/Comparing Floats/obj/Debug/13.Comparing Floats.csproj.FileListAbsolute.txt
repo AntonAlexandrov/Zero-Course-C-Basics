@@ -1,0 +1,3 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Comparing Floats\obj\Debug\Comparing Floats.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Comparing Floats\obj\Debug\Comparing Floats.pdb

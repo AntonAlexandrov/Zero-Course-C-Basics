@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\02.Numbers Not Divisible By 3 And 7\bin\Debug\02.Numbers Not Divisible By 3 And 7.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\02.Numbers Not Divisible By 3 And 7\bin\Debug\02.Numbers Not Divisible By 3 And 7.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\02.Numbers Not Divisible By 3 And 7\bin\Debug\02.Numbers Not Divisible By 3 And 7.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\02.Numbers Not Divisible By 3 And 7\obj\Debug\02.Numbers Not Divisible By 3 And 7.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\02.Numbers Not Divisible By 3 And 7\obj\Debug\02.Numbers Not Divisible By 3 And 7.pdb

@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\03.Min, Max, Sum and Average of N Numbers\bin\Debug\03.Min, Max, Sum and Average of N Numbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\03.Min, Max, Sum and Average of N Numbers\bin\Debug\03.Min, Max, Sum and Average of N Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\03.Min, Max, Sum and Average of N Numbers\bin\Debug\03.Min, Max, Sum and Average of N Numbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\03.Min, Max, Sum and Average of N Numbers\obj\Debug\03.Min, Max, Sum and Average of N Numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\03.Min, Max, Sum and Average of N Numbers\obj\Debug\03.Min, Max, Sum and Average of N Numbers.pdb

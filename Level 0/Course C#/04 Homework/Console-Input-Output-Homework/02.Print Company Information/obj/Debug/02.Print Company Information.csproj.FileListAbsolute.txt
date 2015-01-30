@@ -1,0 +1,11 @@
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\02.Print Company Information\bin\Debug\02.Print Company Information.exe.config
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\02.Print Company Information\bin\Debug\02.Print Company Information.exe
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\02.Print Company Information\bin\Debug\02.Print Company Information.pdb
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\02.Print Company Information\obj\Debug\02.Print Company Information.exe
+E:\PROGRAMMING\random projects\Console-Input-Output-Homework\02.Print Company Information\obj\Debug\02.Print Company Information.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\02.Print Company Information\bin\Debug\02.Print Company Information.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\02.Print Company Information\bin\Debug\02.Print Company Information.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\02.Print Company Information\bin\Debug\02.Print Company Information.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\02.Print Company Information\obj\Debug\02.Print Company Information.csprojResolveAssemblyReference.cache
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\02.Print Company Information\obj\Debug\02.Print Company Information.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\02.Print Company Information\obj\Debug\02.Print Company Information.pdb

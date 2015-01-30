@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\18.Inside The Building\bin\Debug\18.Inside The Building.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\18.Inside The Building\bin\Debug\18.Inside The Building.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\18.Inside The Building\bin\Debug\18.Inside The Building.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\18.Inside The Building\obj\Debug\18.Inside The Building.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\18.Inside The Building\obj\Debug\18.Inside The Building.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\18.Inside The Building\obj\Debug\18.Inside The Building.pdb

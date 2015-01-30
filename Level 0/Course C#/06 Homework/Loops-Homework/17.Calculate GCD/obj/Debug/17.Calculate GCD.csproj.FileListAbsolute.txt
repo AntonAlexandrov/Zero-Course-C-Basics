@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\17.Calculate GCD\bin\Debug\17.Calculate GCD.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\17.Calculate GCD\bin\Debug\17.Calculate GCD.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\17.Calculate GCD\bin\Debug\17.Calculate GCD.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\17.Calculate GCD\obj\Debug\17.Calculate GCD.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\17.Calculate GCD\obj\Debug\17.Calculate GCD.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\17.Calculate GCD\obj\Debug\17.Calculate GCD.pdb

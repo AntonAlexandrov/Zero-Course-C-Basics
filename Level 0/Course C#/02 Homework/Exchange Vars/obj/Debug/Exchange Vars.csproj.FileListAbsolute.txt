@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Exchange Vars\bin\Debug\Exchange Vars.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Exchange Vars\bin\Debug\Exchange Vars.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Exchange Vars\bin\Debug\Exchange Vars.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Exchange Vars\obj\Debug\Exchange Vars.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Exchange Vars\obj\Debug\Exchange Vars.pdb

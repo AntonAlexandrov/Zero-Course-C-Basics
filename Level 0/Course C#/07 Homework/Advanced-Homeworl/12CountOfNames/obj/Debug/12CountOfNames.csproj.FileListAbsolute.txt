@@ -1,0 +1,5 @@
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\12CountOfNames\bin\Debug\12CountOfNames.exe.config
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\12CountOfNames\bin\Debug\12CountOfNames.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\12CountOfNames\bin\Debug\12CountOfNames.pdb
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\12CountOfNames\obj\Debug\12CountOfNames.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\12CountOfNames\obj\Debug\12CountOfNames.pdb

@@ -1,0 +1,6 @@
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\05.Formatting Numbers\bin\Debug\05.Formatting Numbers.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\05.Formatting Numbers\bin\Debug\05.Formatting Numbers.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\05.Formatting Numbers\bin\Debug\05.Formatting Numbers.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\05.Formatting Numbers\obj\Debug\05.Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\05.Formatting Numbers\obj\Debug\05.Formatting Numbers.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\05.Formatting Numbers\obj\Debug\05.Formatting Numbers.pdb

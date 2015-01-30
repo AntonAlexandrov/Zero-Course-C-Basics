@@ -1,0 +1,15 @@
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\bin\Debug\12.Falling Rocks Game.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\obj\Debug\12.Falling Rocks Game.csprojResolveAssemblyReference.cache
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\bin\Debug\12.Falling Rocks Game.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\bin\Debug\12.Falling Rocks Game.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\obj\Debug\12.Falling Rocks Game.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\obj\Debug\12.Falling Rocks Game.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\bin\Debug\12.Falling Rocks Game.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\obj\Debug\12.Falling Rocks Game.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\obj\Debug\12.Falling Rocks Game.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\bin\Debug\12.Falling Rocks Game.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\bin\Debug\12.Falling Rocks Game.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\obj\Debug\12.Falling Rocks Game.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Level 0\Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\bin\Debug\12.Falling Rocks Game.exe.config
+E:\SOFT UNI\PROJECTS\Level 0\Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\obj\Debug\12.Falling Rocks Game.exe
+E:\SOFT UNI\PROJECTS\Level 0\Course C#\04 Homework\Console-Input-Output-Homework\12.Falling Rocks Game\obj\Debug\12.Falling Rocks Game.pdb

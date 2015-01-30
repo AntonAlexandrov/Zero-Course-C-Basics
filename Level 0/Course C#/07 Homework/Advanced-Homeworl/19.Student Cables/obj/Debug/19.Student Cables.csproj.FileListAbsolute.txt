@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\19.Student Cables\bin\Debug\19.Student Cables.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\19.Student Cables\bin\Debug\19.Student Cables.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\19.Student Cables\bin\Debug\19.Student Cables.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\19.Student Cables\obj\Debug\19.Student Cables.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\19.Student Cables\obj\Debug\19.Student Cables.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\19.Student Cables\obj\Debug\19.Student Cables.pdb

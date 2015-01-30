@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\21.Odd Even Elements\bin\Debug\21.Odd Even Elements.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\21.Odd Even Elements\bin\Debug\21.Odd Even Elements.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\21.Odd Even Elements\bin\Debug\21.Odd Even Elements.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\21.Odd Even Elements\obj\Debug\21.Odd Even Elements.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\21.Odd Even Elements\obj\Debug\21.Odd Even Elements.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\21.Odd Even Elements\obj\Debug\21.Odd Even Elements.pdb

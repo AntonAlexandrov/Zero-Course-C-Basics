@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\17.Volleyball\bin\Debug\17.Volleyball.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\17.Volleyball\bin\Debug\17.Volleyball.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\17.Volleyball\bin\Debug\17.Volleyball.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\17.Volleyball\obj\Debug\17.Volleyball.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\17.Volleyball\obj\Debug\17.Volleyball.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\17.Volleyball\obj\Debug\17.Volleyball.pdb

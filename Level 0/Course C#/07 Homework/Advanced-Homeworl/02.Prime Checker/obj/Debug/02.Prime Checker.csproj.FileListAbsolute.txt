@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\02.Prime Checker\bin\Debug\02.Prime Checker.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\02.Prime Checker\bin\Debug\02.Prime Checker.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\02.Prime Checker\bin\Debug\02.Prime Checker.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\02.Prime Checker\obj\Debug\02.Prime Checker.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\07 Homework\Advanced-Homeworl\02.Prime Checker\obj\Debug\02.Prime Checker.pdb

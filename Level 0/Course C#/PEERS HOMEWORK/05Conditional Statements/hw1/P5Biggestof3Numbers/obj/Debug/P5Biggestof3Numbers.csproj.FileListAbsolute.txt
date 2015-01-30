@@ -1,0 +1,6 @@
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P5Biggestof3Numbers\bin\Debug\P5Biggestof3Numbers.exe.config
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P5Biggestof3Numbers\bin\Debug\P5Biggestof3Numbers.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P5Biggestof3Numbers\bin\Debug\P5Biggestof3Numbers.pdb
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P5Biggestof3Numbers\obj\Debug\P5Biggestof3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P5Biggestof3Numbers\obj\Debug\P5Biggestof3Numbers.exe
+C:\Users\Nikolay\Documents\Visual Studio 2013\Projects\HomeworkConditionalStatements\P5Biggestof3Numbers\obj\Debug\P5Biggestof3Numbers.pdb

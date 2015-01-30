@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\12.Extract Bit From Integer\bin\Debug\12.Extract Bit From Integer.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\12.Extract Bit From Integer\bin\Debug\12.Extract Bit From Integer.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\12.Extract Bit From Integer\bin\Debug\12.Extract Bit From Integer.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\12.Extract Bit From Integer\obj\Debug\12.Extract Bit From Integer.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\12.Extract Bit From Integer\obj\Debug\12.Extract Bit From Integer.pdb

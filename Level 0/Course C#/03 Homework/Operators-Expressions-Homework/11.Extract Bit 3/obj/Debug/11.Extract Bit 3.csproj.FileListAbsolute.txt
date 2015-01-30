@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\11.Extract Bit 3\bin\Debug\11.Extract Bit 3.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\11.Extract Bit 3\bin\Debug\11.Extract Bit 3.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\11.Extract Bit 3\bin\Debug\11.Extract Bit 3.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\11.Extract Bit 3\obj\Debug\11.Extract Bit 3.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\11.Extract Bit 3\obj\Debug\11.Extract Bit 3.pdb

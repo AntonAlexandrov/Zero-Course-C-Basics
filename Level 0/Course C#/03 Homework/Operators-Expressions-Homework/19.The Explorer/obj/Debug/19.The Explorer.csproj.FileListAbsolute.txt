@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\19.The Explorer\bin\Debug\19.The Explorer.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\19.The Explorer\bin\Debug\19.The Explorer.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\19.The Explorer\bin\Debug\19.The Explorer.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\19.The Explorer\obj\Debug\19.The Explorer.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\19.The Explorer\obj\Debug\19.The Explorer.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\19.The Explorer\obj\Debug\19.The Explorer.csprojResolveAssemblyReference.cache

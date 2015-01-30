@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\05.Third Digit Is 7\bin\Debug\05.Third Digit Is 7.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\05.Third Digit Is 7\bin\Debug\05.Third Digit Is 7.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\05.Third Digit Is 7\bin\Debug\05.Third Digit Is 7.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\05.Third Digit Is 7\obj\Debug\05.Third Digit Is 7.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\05.Third Digit Is 7\obj\Debug\05.Third Digit Is 7.pdb

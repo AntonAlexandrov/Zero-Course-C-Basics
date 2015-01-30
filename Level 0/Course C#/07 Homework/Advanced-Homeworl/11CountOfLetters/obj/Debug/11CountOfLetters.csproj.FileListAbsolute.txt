@@ -1,0 +1,5 @@
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\11CountOfLetters\bin\Debug\11CountOfLetters.exe.config
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\11CountOfLetters\bin\Debug\11CountOfLetters.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\11CountOfLetters\bin\Debug\11CountOfLetters.pdb
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\11CountOfLetters\obj\Debug\11CountOfLetters.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\11CountOfLetters\obj\Debug\11CountOfLetters.pdb

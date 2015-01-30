@@ -1,0 +1,6 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\15.Bits Exchange\bin\Debug\15.Bits Exchange.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\15.Bits Exchange\obj\Debug\15.Bits Exchange.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\15.Bits Exchange\obj\Debug\15.Bits Exchange.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\15.Bits Exchange\obj\Debug\15.Bits Exchange.pdb

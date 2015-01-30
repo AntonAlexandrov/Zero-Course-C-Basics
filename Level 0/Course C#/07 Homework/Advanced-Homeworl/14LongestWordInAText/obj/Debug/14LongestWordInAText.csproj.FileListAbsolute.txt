@@ -1,0 +1,5 @@
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\14LongestWordInAText\bin\Debug\14LongestWordInAText.exe.config
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\14LongestWordInAText\bin\Debug\14LongestWordInAText.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\14LongestWordInAText\bin\Debug\14LongestWordInAText.pdb
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\14LongestWordInAText\obj\Debug\14LongestWordInAText.exe
+C:\Users\Nexar1uS\Documents\Visual Studio 2013\Projects\CSharpAdvanced\14LongestWordInAText\obj\Debug\14LongestWordInAText.pdb

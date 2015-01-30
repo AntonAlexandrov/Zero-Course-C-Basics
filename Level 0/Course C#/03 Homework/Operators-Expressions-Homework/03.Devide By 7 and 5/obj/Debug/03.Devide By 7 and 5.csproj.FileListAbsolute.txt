@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\03.Devide By 7 and 5\bin\Debug\03.Devide By 7 and 5.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\03.Devide By 7 and 5\bin\Debug\03.Devide By 7 and 5.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\03.Devide By 7 and 5\bin\Debug\03.Devide By 7 and 5.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\03.Devide By 7 and 5\obj\Debug\03.Devide By 7 and 5.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\03.Devide By 7 and 5\obj\Debug\03.Devide By 7 and 5.pdb

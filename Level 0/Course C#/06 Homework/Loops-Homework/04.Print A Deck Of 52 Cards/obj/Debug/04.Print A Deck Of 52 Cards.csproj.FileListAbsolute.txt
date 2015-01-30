@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\04.Print A Deck Of 52 Cards\bin\Debug\04.Print A Deck Of 52 Cards.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\04.Print A Deck Of 52 Cards\bin\Debug\04.Print A Deck Of 52 Cards.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\04.Print A Deck Of 52 Cards\bin\Debug\04.Print A Deck Of 52 Cards.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\04.Print A Deck Of 52 Cards\obj\Debug\04.Print A Deck Of 52 Cards.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\04.Print A Deck Of 52 Cards\obj\Debug\04.Print A Deck Of 52 Cards.pdb

@@ -1,0 +1,5 @@
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\11.Numbers In Interval That Are Devidable\bin\Debug\11.Numbers In Interval That Are Devidable.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\11.Numbers In Interval That Are Devidable\bin\Debug\11.Numbers In Interval That Are Devidable.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\11.Numbers In Interval That Are Devidable\bin\Debug\11.Numbers In Interval That Are Devidable.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\11.Numbers In Interval That Are Devidable\obj\Debug\11.Numbers In Interval That Are Devidable.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\04 Homework\Console-Input-Output-Homework\11.Numbers In Interval That Are Devidable\obj\Debug\11.Numbers In Interval That Are Devidable.pdb

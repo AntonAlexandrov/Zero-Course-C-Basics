@@ -1,0 +1,12 @@
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.csprojResolveAssemblyReference.cache

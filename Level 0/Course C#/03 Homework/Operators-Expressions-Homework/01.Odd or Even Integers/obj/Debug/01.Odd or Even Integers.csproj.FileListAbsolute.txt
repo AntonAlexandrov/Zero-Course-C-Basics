@@ -1,0 +1,12 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\bin\Debug\01.Odd or Even Integers.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\bin\Debug\01.Odd or Even Integers.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\bin\Debug\01.Odd or Even Integers.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\obj\Debug\01.Odd or Even Integers.csprojResolveAssemblyReference.cache
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\obj\Debug\01.Odd or Even Integers.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\obj\Debug\01.Odd or Even Integers.pdb
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\bin\Debug\01.Odd or Even Integers.exe.config
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\obj\Debug\01.Odd or Even Integers.exe
+C:\PROGRAMMING\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\obj\Debug\01.Odd or Even Integers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\bin\Debug\01.Odd or Even Integers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\obj\Debug\01.Odd or Even Integers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\03 Homework\Operators-Expressions-Homework\01.Odd or Even Integers\obj\Debug\01.Odd or Even Integers.pdb

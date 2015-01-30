@@ -1,0 +1,5 @@
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bit Inverter\bin\Debug\Bit Inverter.exe.config
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bit Inverter\obj\Debug\Bit Inverter.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bit Inverter\obj\Debug\Bit Inverter.pdb
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bit Inverter\bin\Debug\Bit Inverter.exe
+F:\SOFT UNI\PROJECTS\Zero Course C#\02 Homework\Bit Inverter\bin\Debug\Bit Inverter.pdb

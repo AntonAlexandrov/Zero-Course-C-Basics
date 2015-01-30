@@ -1,0 +1,6 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\12.Randomize the numbers\bin\Debug\12.Randomize the numbers.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\12.Randomize the numbers\bin\Debug\12.Randomize the numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\12.Randomize the numbers\bin\Debug\12.Randomize the numbers.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\12.Randomize the numbers\obj\Debug\12.Randomize the numbers.csprojResolveAssemblyReference.cache
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\12.Randomize the numbers\obj\Debug\12.Randomize the numbers.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\06 Homework\Loops-Homework\12.Randomize the numbers\obj\Debug\12.Randomize the numbers.pdb

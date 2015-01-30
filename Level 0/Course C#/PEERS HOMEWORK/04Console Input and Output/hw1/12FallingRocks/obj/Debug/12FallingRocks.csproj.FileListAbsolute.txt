@@ -1,0 +1,9 @@
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\12FallingRocks\bin\Debug\12FallingRocks.exe.config
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\12FallingRocks\bin\Debug\12FallingRocks.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\12FallingRocks\bin\Debug\12FallingRocks.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\12FallingRocks\obj\Debug\12FallingRocks.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\12FallingRocks\bin\Debug\12FallingRocks.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\12FallingRocks\obj\Debug\12FallingRocks.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\PEERS HOMEWORK\04Console Input and Output\hw1\12FallingRocks\obj\Debug\12FallingRocks.pdb

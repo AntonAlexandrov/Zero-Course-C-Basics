@@ -1,0 +1,5 @@
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\03.Check Played Card\bin\Debug\03.Check Played Card.exe.config
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\03.Check Played Card\bin\Debug\03.Check Played Card.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\03.Check Played Card\bin\Debug\03.Check Played Card.pdb
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\03.Check Played Card\obj\Debug\03.Check Played Card.exe
+E:\SOFT UNI\PROJECTS\Zero Course C#\05 Homework\Conditional-Statements-Homework\Conditional-Statements-Homework\03.Check Played Card\obj\Debug\03.Check Played Card.pdb
